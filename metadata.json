@@ -1,0 +1,5 @@
+{
+  "name": "FlowPilot AI",
+  "description": "A production-ready SaaS web application interface for an AI-powered customer message routing and automation platform. It displays real AI-driven decisions for incoming customer messages from a backend webhook.",
+  "requestFramePermissions": []
+}
